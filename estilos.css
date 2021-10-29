@@ -1,0 +1,44 @@
+* {
+    Margin:0;
+    padding:0;
+ }  
+
+ /* AJUSTES GENERALES: INICIO //////////////////////////////////////////////////////////////////////////////////*/
+
+ .fondo{
+     background-image: url(./img/cielo.jpg);
+     background-size: cover;
+ }
+
+ a{
+    text-decoration: none;   
+    color: rgb(41, 87, 30);    
+}
+
+a:hover{
+    color:rgb(84, 196, 84);
+}
+
+.fondomarca{
+    background-image: url(./img/fondomarca2.jpg);
+    background-size: cover;
+    padding: 20%;
+}
+
+.fondoproductos{
+    background-image: url(./img/productos.jpg);
+    background-size: cover;
+    padding: 10%;
+}
+.fondoservicios{
+    background-image: url(./img/servicios.jpg);
+    background-size: cover;
+    padding: 10%;
+}
+.fondofertas{
+    background-image: url(./img/perifericos.jpg);
+    background-size: cover;
+    padding: 10%;
+}
+
+/*/////////////////////////////////////////////////*/
