@@ -29,16 +29,27 @@ a:hover{
     background-image: url(./img/productos.jpg);
     background-size: cover;
     padding: 10%;
+    width: 50%;
 }
 .fondoservicios{
     background-image: url(./img/servicios.jpg);
     background-size: cover;
     padding: 10%;
+    width: 50%;
 }
 .fondofertas{
     background-image: url(./img/perifericos.jpg);
     background-size: cover;
-    padding: 10%;
+   
+    width: 100%;
 }
+
+.carousel {
+    width:75%;
+    
+    left:12%;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
 
 /*/////////////////////////////////////////////////*/
